@@ -40,3 +40,4 @@ print("{} + {} = {}" .format(num1, num2, total))
 print("num1의 자료형: ", type(num1))
 print("pi의 자료형: ", type(pi))
 print("name의 자료형: ", type(name))
+
